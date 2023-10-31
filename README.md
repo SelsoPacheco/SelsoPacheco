@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pachecoselso/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selsopacheco)](https://github.com/selsopacheco/github-readme-stats)
+![Selso's GitHub stats](https://github-readme-stats.vercel.app/api?username=selsopacheco&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
 
@@ -11,4 +11,3 @@
 <img align="center" alt ="js" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt ="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-<br/>
